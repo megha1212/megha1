@@ -1,0 +1,8 @@
+1}
+C:\Users\chaitra\Desktop>Asn02P03 3
+
+ Move disk 3 from A to C
+ Move disk 2 from A to D
+ Move disk 1 from A to B
+ Move disk 2 from D to B
+ Move disk 3 from C to B
